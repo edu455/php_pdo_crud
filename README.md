@@ -1,0 +1,1 @@
+To use import the sql file into your database then change all values in database.php file.
